@@ -45,14 +45,11 @@ These values represent binary encoding (0001, 0010, 0100, 1000)
 
 ## 📁 Project Files
 
-| File Name            | Description                                    |
-|---------------------|------------------------------------------------|
-| `CircuitDiagram.pdf`| Schematic of the buzzer system (logic gates + decoder) |
-| `README.md`         | Project documentation                          |
-| `TruthTable.txt`    | Truth table and working logic                  |
-| `ComponentsList.txt`| List of components used                        |
-| `Simulation.circ`   | (Optional) Logisim or Digital Simulator File   |
-
+| File Name            | Description                                            |
+|----------------------|--------------------------------------------------------|
+| `Circuit_diagram.jpg`| Schematic of the buzzer system (logic gates + decoder) |
+| `README.md`          | Project documentation                                  |
+| `Project.png`        | Snapshot of the project in real-time                   |
 ---
 
 ## 🚀 Future Improvements
